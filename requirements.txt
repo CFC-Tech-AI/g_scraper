@@ -3,7 +3,7 @@ greenlet==2.0.1
 numpy==1.24.2
 openpyxl==3.1.1
 pandas==1.5.3
-playwright==1.30.0
+playwright==1.41.0
 pyee==9.0.4
 python-dateutil==2.8.2
 pytz==2022.7.1
